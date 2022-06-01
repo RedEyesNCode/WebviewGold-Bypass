@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebviewGold-Bypass.iml" filepath="$PROJECT_DIR$/.idea/modules/WebviewGold-Bypass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebviewGold-Bypass.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebviewGold-Bypass.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebviewGold-Bypass.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebviewGold-Bypass.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebviewGold-Bypass.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebviewGold-Bypass.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebviewGold-Bypass.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebviewGold-Bypass.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inapp/WebviewGold-Bypass.inapp.iml" filepath="$PROJECT_DIR$/.idea/modules/inapp/WebviewGold-Bypass.inapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inapp/WebviewGold-Bypass.inapp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/inapp/WebviewGold-Bypass.inapp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inapp/WebviewGold-Bypass.inapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/inapp/WebviewGold-Bypass.inapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inapp/WebviewGold-Bypass.inapp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/inapp/WebviewGold-Bypass.inapp.unitTest.iml" />
+    </modules>
+  </component>
+</project>
