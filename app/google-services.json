@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "497651047331",
+    "firebase_url": "https://webviewgold-884a3.firebaseio.com",
+    "project_id": "webviewgold-884a3",
+    "storage_bucket": "webviewgold-884a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497651047331:android:55b5ec4a3b3dc868785816",
+        "android_client_info": {
+          "package_name": "webviewgold.myappname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497651047331-aea2hdciemj96l08ngea5h8iv065qvig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBDTkfOYw8sCWqXWouuB5vHvW1Pz3mDzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497651047331-aea2hdciemj96l08ngea5h8iv065qvig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497651047331-eef8n95ces4h171ncadsjf58nk1tgnnb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "webviewFirebaseID"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

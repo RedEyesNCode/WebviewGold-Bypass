@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Offline screen-->
+    <dimen name="offline_message_1_text_size">20sp</dimen>
+    <dimen name="offline_message_2_text_size">17sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>
